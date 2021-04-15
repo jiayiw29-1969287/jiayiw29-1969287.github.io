@@ -1,0 +1,65 @@
+body {
+
+}
+p {
+    color: white;
+    font-family: "Arial";
+}
+h3 {
+
+}
+li {
+
+}
+#Header {
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+    border: solid 8px black; 
+    text-align: center;
+}
+#Header h1 {
+    font-size: 60px;
+    font-family: "Passion One";
+    color: #FFBC00;
+    font-weight: : bold;
+}
+#LeftNav {
+    width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+    border: solid 8px black; 
+    text-align: center;
+    float: left;
+    text-align: center;
+}
+#LeftNav img {
+
+}
+ul {
+    list-style-type: none;
+    padding-left: 0px;
+    padding-bottom: 8px;
+}
+#LeftNav h3 {
+
+}
+#Content {
+    width: 700px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+    border: solid 8px black; 
+    text-align: center;
+    padding: 15px;
+}
+#Footer {
+    width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+    border: solid 8px black;  
+    text-align: center;
+}
